@@ -6,7 +6,7 @@ require 'vendor/autoload.php';
 
 $app = new \Slim\App;
 
-$app->get ('/hi',function(){
+$app->get ('/hello',function(){
     echo 'ว่าไง';
 });
 
