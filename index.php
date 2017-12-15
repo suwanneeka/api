@@ -16,6 +16,8 @@ require 'routes/user.php';
 require 'routes/register.php';
 require 'routes/room.php';
 require 'routes/animal.php';
+require 'routes/farmer.php';
+require 'routes/give.php';
 
 // ไว้ทดสอบ API ทำงานได้ปกติไหม
 
